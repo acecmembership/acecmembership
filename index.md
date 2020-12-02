@@ -1,6 +1,6 @@
 ## Ananda College Entrepreneurs Club
 ### Membership Application
-
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <script type="text/javascript" src="https://form.jotform.com/jsform/203342234813446"></script>
 
 
